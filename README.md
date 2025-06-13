@@ -36,4 +36,12 @@ This project is an **AI-powered EDA tool** that lets you upload a CSV file and i
 
 ---
 
+## 📌 Use Case
 
+Ideal for data analysts and data scientists who want to:
+
+- Quickly understand new datasets
+
+- Save time with AI-generated EDA commentary
+
+- Automate routine data profiling tasks
