@@ -36,13 +36,4 @@ This project is an **AI-powered EDA tool** that lets you upload a CSV file and i
 
 ---
 
-## 📷 Sample Output
-
-### 📊 Dashboard Screenshots:
-
-| Data Summary | Visualizations | LLM Output |
-|--------------|----------------|------------|
-| ![Screenshot-1](./Screenshot-1.png) | ![Screenshot-2](./Screenshot-2.png) | ![Screenshot-3](./Screenshot-3.png) |
-
----
 
