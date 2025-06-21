@@ -47,6 +47,3 @@ Ideal for data analysts and data scientists who want to:
 - Automate routine data profiling tasks
 
 
-# output frontend showcase
-
-![output](https://github.com/user-attachments/assets/115ad537-0034-4350-b7be-609dac5738be)
