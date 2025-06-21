@@ -45,3 +45,8 @@ Ideal for data analysts and data scientists who want to:
 - Save time with AI-generated EDA commentary
 
 - Automate routine data profiling tasks
+
+
+# output frontend showcase
+
+![output](https://github.com/user-attachments/assets/115ad537-0034-4350-b7be-609dac5738be)
